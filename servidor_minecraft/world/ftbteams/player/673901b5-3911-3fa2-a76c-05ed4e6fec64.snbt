@@ -1,0 +1,17 @@
+{
+	id: "673901b5-3911-3fa2-a76c-05ed4e6fec64"
+	type: "player"
+	player_name: "UgandaEnzo"
+	ranks: {
+		673901b5-3911-3fa2-a76c-05ed4e6fec64: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "UgandaEnzo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
